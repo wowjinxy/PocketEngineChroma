@@ -1,2 +1,2 @@
 # PocketEngineChroma
-This is an open source Pokemon fangame engine
+This is an open source fangame engine
